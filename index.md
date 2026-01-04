@@ -1,7 +1,7 @@
-# test work hard
+#### test work hard
 where
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![(https://octodex.github.com/images/yaktocat.png)
 
 good look
 
@@ -12,3 +12,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [X] try
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
